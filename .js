@@ -1,2 +1,1 @@
-///besiaktokot
 window.message("Basiak")
